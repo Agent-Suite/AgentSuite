@@ -1,0 +1,6 @@
+model: intellisu
+submitted_by: RunpuWei
+meta:
+  organization: Bank of Jiangsu
+trajectories:
+  NexusBench: hf://datasets/BaiLing/intellisu-agentsuite/NexusBench.jsonl
